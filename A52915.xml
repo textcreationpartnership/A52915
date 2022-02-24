@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect relation of the late and dreadful inundation which happened in Holland on Sunday Novemb. 3, 1675 at 4 of the clock afternoon, Saturn being then in opposition to Mars by which lamentable accident all the land is set under water from Amsterdam to Leyden, Utrecht, Woorden, Tergow, all South-Holland, and a great part of North-Holland, about Hoorn, &amp;c. : together with an account of those further miseries and calamities that followed thereupon, as the drowning of men, women and children, and multitudes of cattel : as also a brief account of a dreaful storm with thunder and lightning on the same day at Antwerp and Gent, to the loss of the lives of divers porsons [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52915</idno>
+            <idno type="STC">Wing N62</idno>
+            <idno type="STC">ESTC R32143</idno>
+            <idno type="EEBO-CITATION">12334703</idno>
+            <idno type="OCLC">ocm 12334703</idno>
+            <idno type="VID">59745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1019:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect relation of the late and dreadful inundation which happened in Holland on Sunday Novemb. 3, 1675 at 4 of the clock afternoon, Saturn being then in opposition to Mars by which lamentable accident all the land is set under water from Amsterdam to Leyden, Utrecht, Woorden, Tergow, all South-Holland, and a great part of North-Holland, about Hoorn, &amp;c. : together with an account of those further miseries and calamities that followed thereupon, as the drowning of men, women and children, and multitudes of cattel : as also a brief account of a dreaful storm with thunder and lightning on the same day at Antwerp and Gent, to the loss of the lives of divers porsons [sic].</title>
+                  <author>Swaert, Stephen.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with print show-through and slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Floods --  Netherlands.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59745:1"/>
+            <pb facs="tcp:59745:1"/>
+            <p>A True and Perfect RELATION Of the late and dreadful INUNDATION Which happened in HOLLAND On <hi>Sunday Novemb.</hi> 3. 1675. at 4 of the Clock Afternoon, <hi>Saturn</hi> being then in <hi>Oppo<g ref="char:EOLhyphen"/>ſition</hi> to <hi>Mars.</hi>
+            </p>
+            <p>By which lamentable Accident all the Land is ſet under Water from <hi>Amſterdam</hi> to <hi>Leyden, <g ref="char:V">Ʋ</g>trecht, Woorden, Tergow,</hi> all <hi>South-Holland,</hi> and a great part of <hi>North-Holland,</hi> about <hi>Hoorn, &amp;c.</hi>
+            </p>
+            <p>TOGETHER With an Account of thoſe further Miſeries and Ca<g ref="char:EOLhyphen"/>lamities that followed thereupon, as the drown<g ref="char:EOLhyphen"/>ing of Men, Women and Children, and multi<g ref="char:EOLhyphen"/>tudes of Cattel.</p>
+            <p>
+               <hi>As alſo a brief Account of a dreadful Storm with Thun<g ref="char:EOLhyphen"/>der and Lightning on the ſame day at</hi> Antwerp <hi>and</hi> Gent, <hi>to the loſs of the Lives of divers porſons.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenced</p>
+                        <closer>
+                           <dateline>
+                              <date>Nov. 12. 1675.</date>
+                           </dateline> 
+                           <signed>Roger L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59745:2"/>
+            <pb n="3" facs="tcp:59745:2"/>
+            <head>A True and Perfect. RELATION Of the Late <hi>IN<g ref="char:V">Ʋ</g>NDATION</hi> OF WATER <hi>That happened in</hi> Holland, <hi>by which all the Land is Overflowed from</hi> Amſterdam <hi>to</hi> Leyden, Utrecht, Woorden, Tergow, <hi>all</hi> South-Holland, <hi>and a great Part of</hi> North-Holland, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>My good Friend,</salute>
+            </opener>
+            <p>I Have not been able to omit making known to you thoſe ſad tidings which lately happened here; namely, that all our fruitful <hi>Northern<g ref="char:EOLhyphen"/>land</hi> (except that of <hi>Keeren</hi> and <hi>Swaagdijke,</hi> and that farther Eaſtward of <hi>Hoorn,</hi> as far as <hi>Enckhuyſen</hi>) is ſo miſerably overflowed, that it is like a great Pool of Water, which came to paſs on this wife:</p>
+            <pb n="4" facs="tcp:59745:3"/>
+            <p> Upon <hi>Sunday</hi> the third of this Inſtant <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> S. N. the North-weſt Wind did ſo drive in the Sea upon us, that you would have thought that the Waves thereof would have overwhelmed the whole Country; and the Water was d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ven in ſo vehemently by the Storm, that it flowed higher here at this time, than was ever ſeen by any man living before; for in the Night it was riſen to that heighth, that it ſtood an Inch above the lower Lintel of our High Houſes, and the Stream can through all our Low Houſes.</p>
+            <p>The next day in the Evening, there was a great floing in of the Water at the Sluce of the <hi>Eaſt-gate;</hi> alſo it broke through the Dike at the <hi>Eaſt-gate,</hi> where the Spaniſh Cavalry ſtood; ſo that the wa<g ref="char:EOLhyphen"/>ter began to flow exceeding high in that place, but was ſtopped by the powerful aſſiſtance of men, that brought with them Sails and Weights for that purpoſe; alſo they brought two great Schuyts, and placed them upon the Sails, and filled them full of water, ſo that by that means they might bear down the Sails with the greater weight.</p>
+            <p>About Two a Clock in the Morning the Bells of the <hi>Brant</hi> and <hi>State-houſe</hi> began to ring, which occaſioned a great Alarm in the City; at that time News was brought, That the Dike to the Weſt<g ref="char:EOLhyphen"/>ward of <hi>Hoorne</hi> was broken through between <hi>Scharwoude</hi> and the <hi>Swarte Church;</hi> and about half an hour after there came likewiſe News that there was another great breach made in the ſaid Dyke before <hi>Carbalius Wieltie,</hi> ſo that the Burghers came too late thither. But to prevent farther danger, and to turn the water back as much as
+<pb n="5" facs="tcp:59745:3"/>was poſſible. The next day in the Morning they beat the Drums, to give notice, That if there were any that would work at the Breaches of the Dykes for Wages, they ſhould repair to <hi>Keeren,</hi> where they ſhould he civily enterained, (there being already great Companies of Volunteers at work both before and behind the Water, and had brought Earth &amp; Stones thither to make a crooked Ba<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hinking thereby to turn off the water along by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Somerdyke,</hi> to hinder it from flowing more Northwards; but this proved unſuccesful, for in the Evening the <hi>Somerdyke</hi> was broken through in two or three places, and had overflowed that good Land as far as <hi>Medenblick.</hi>
+            </p>
+            <p>But it pleaſed God to bleſs the endeavours of the people at <hi>Keeren,</hi> ſo that their work was not whol<g ref="char:EOLhyphen"/>ly in vain there, for by that crooked Bank which they had made they forced the Water to run over as far as <hi>Swaagdyke;</hi> and being ſupplyed with Earth, they made a Dyke by which they could the better ſtop the Water there, and hinder it from breaking farther into the <hi>Polder,</hi> which hath hither<g ref="char:EOLhyphen"/>to ſucceeded well, and it is hoped will ſo continue, by the bleſſing of Almighty God, and the great care and vigilance of our Magiſtrates, who have quitted themſelves extraordinary well in this Affair.</p>
+            <p>
+               <hi>My Dear Friend,</hi> This day being <hi>Wedneſday,</hi> I went to the great Church with my Father, (which was the firſt time of my going forth ſince <hi>Monday<g ref="char:punc">▪</g>
+               </hi> the Waters being ſo high) where <hi>Mijn Heer New<g ref="char:EOLhyphen"/>ſtadt</hi> made a good Sermon; his Audience was but 25 men, all the reſt being gone to work at <hi>Keeren.</hi>
+               <pb n="6" facs="tcp:59745:4"/>The Sermon being ended, we alſo went all of us thither, and found all things in the dreadfulleſt condition that can poſſibly be expreſt with a Pen; For they tell us, that ſome of the poor Boars were come thither with their Goods in Schuijts: That others had filled their Schuijts with drowned Cat<g ref="char:EOLhyphen"/>tel, &amp; brought them thither to ſell, (they being for<g ref="char:EOLhyphen"/>ced to eat the drowned Beaſts or ſtarve.) They tell us alſo that ſome Vagabond Rogues have <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ke Throats of their Hoggs &amp; Sheep, and carried <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em away in Sacks to ſell to others: That ſome are gone away with pieces of dead Cows, which they carry here and there to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inhabitants that are fled from the Waters. Others are fled with Waggons full of Houſhold Goods, and Schuijts laden with Cheeſe, and left their Cattel behind them. Alſo they ſay, that others are fled with their Wives and Children, having loſt all their Cattel, and whatſoever they had beſides. In general, the Calamity is ſo great, it cannot be expreſt by any perſon alive.</p>
+            <p>The 7th Inſtant in the Morning (the Bells having rung, and the Drums beat all the night) all the men came to <hi>Keeren</hi> to aſſiſt in ſtopping the Water.</p>
+            <p>It is now alſo commanded by the <hi>States,</hi> that all the Women ſhould come forth (that are able to work) to help the men to lade Stones in Ships, that they might be carried and ſunk before the Breach: The Women in all parts of the Country are ſo for<g ref="char:EOLhyphen"/>ward in complying with this Command, that they paſs by here in Thouſands towards <hi>Luydendijke</hi> having their Baskets with them to carry Stones; ſo that it is with us (you may think) as if we were in a Beleaguered City, the which is dreadfull to be<g ref="char:EOLhyphen"/>hold.
+<pb n="7" facs="tcp:59745:4"/>If you your ſelf were here at this time, you would ſee a thouſand times more than I can write to you.</p>
+            <p>There are of thoſe poor Inhabitants that lie in Hundreds upon Planks and Boards, and in open Houſes, without Fire or Victuals, that muſt (if things ſo continue) be ſtarved with Hunger and Cold, for no Boats can come at them to fetch them off. Herewith I take my leave at preſent, praying to God to preſerve us from further Inundations, and remain,</p>
+            <closer>
+               <signed>Your very loving Friend <hi>N. N.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another <hi>Letter</hi> from Amſterdam.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BY reaſon of an extraordinary Storm of Wind, the Dike between this City and <hi>Haerlem</hi> is bro<g ref="char:EOLhyphen"/>ken down, ſo that there is no paſſage between us and them, nor hath been for theſe five days. The Storm and Flood hath done a great deal of miſchief, inſo<g ref="char:EOLhyphen"/>much that it is impoſſible to relate all the miſery we daily undergo. Among many wonderful Accidents take theſe following; The Iſland <hi>Mark</hi> (which is an Iſland that lies about two Leagues from this City, in the Mouth of the <hi>Zuijder-Zee</hi>) is altogether waſh<g ref="char:EOLhyphen"/>ed away, nothing is remaining but the Churches. Alſo a great part of the Iſland <hi>Urk</hi> is waſhed away.</p>
+            <p>Some Ships which are lately arrived here from the <hi>Texel,</hi> tell us, That they have met ſeveral pieces of Houſes driving at the Sea, and people upon the tops of them, which is almoſt incredible, yet it is related here for a Truth.</p>
+            <pb n="8" facs="tcp:59745:5"/>
+            <p> 
+               <hi>Sir,</hi> Not only the Dike between <hi>Haerlem</hi> and <hi>Am<g ref="char:EOLhyphen"/>ſterdam</hi> is broken down, but all the Land is ſet under Water from <hi>Amſterdam</hi> to <hi>Leyden, Utrecht, Woor<g ref="char:EOLhyphen"/>den, Tergow,</hi> all <hi>South-Holland,</hi> and a great part of <hi>North-Holland,</hi> and it is to be feared we ſhall hear of more damage ſhortly in other parts of this Country. By the next Poſt you ſhall have an Account of the num<g ref="char:EOLhyphen"/>ber of Perſons and Cattel drowned. Having no more at preſent, I remain,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Loving Friend, <hi>Stephen Swaert.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>I</hi> Have ſince received an Account, that at <hi>Antwerp</hi> from <hi>Sunday</hi> till <hi>Teuſday</hi> there was ſuch ex<g ref="char:EOLhyphen"/>traordinary bad weather from the Northweſt, which drove the Water very high, and hath done much da<g ref="char:EOLhyphen"/>mage to ſome Pack-houſes: But at <hi>Gent</hi> on <hi>Monday</hi> in the Evening, about <hi>8</hi> or <hi>9</hi> of the Clock was a moſt dreadful Storm of Wind, accompanied with Thunder and Lightning, inſomuch that it ſet Fire to two Towers, <hi>Belfort</hi> and St. <hi>Peter,</hi> and the people being forward to put out the Fire, there was many perſons kill'd and wounded, whereof two were killed outright by the Thunder, and many deſtroyed in the Rubbiſh.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59745:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
